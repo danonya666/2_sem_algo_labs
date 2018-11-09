@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519998139 source:c:\users\tatar\programming\antiqs\main.c
+	<stdio.h>
+	<stdlib.h>
+
