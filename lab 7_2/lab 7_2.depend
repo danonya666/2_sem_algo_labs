@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1527549822 source:c:\users\tatar\programming\lab 7_2\main.cpp
+	<string>
+	<vector>
+	<fstream>
+	<queue>
+	<algorithm>
+	<iostream>
+

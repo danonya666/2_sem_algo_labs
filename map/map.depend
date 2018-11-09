@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524678068 source:c:\users\tatar\programming\map\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
